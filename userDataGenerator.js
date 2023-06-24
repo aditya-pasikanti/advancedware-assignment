@@ -1,4 +1,3 @@
-// const axios = require('axios');
 const fs = require('fs');
 
 // Function to fetch random user data from the API
